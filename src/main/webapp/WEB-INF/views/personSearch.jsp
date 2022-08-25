@@ -10,7 +10,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TIME - Home</title>
+<title>Voice Search - Person Search</title>
 <link rel="stylesheet" type="text/css"
 	href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
 <link rel="stylesheet" type="text/css"
@@ -49,7 +49,7 @@ label {
 
 		<div style="background-color: #17a2b8;">
 		
-			<div class="mh-100 page-header" style="height: 70px;">
+			<div class="mh-100 page-header" style="height: 25px;">
 				<h3 class="text-white text-center">Voice Search</h3>
 			</div>
 			
